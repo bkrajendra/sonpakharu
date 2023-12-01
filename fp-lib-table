@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/hardware/lib/ESP32-S3-WROOM-1U-N4/KiCad")(options "")(descr ""))
+)
