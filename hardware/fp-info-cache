@@ -1,4 +1,18 @@
-21737066602888612
+21743894525142490
+ADS1115IDGSR
+SOP50P490X110-10N
+
+
+0
+10
+10
+AP2112K-3.3TRG1
+SOT95P285X140-5N
+
+
+0
+5
+5
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51456,6 +51470,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DMG3415U-7
+SOT95P240X105-3N
+
+
+0
+3
+3
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -80744,6 +80765,13 @@ ESP32-WROOM-32UE
 0
 60
 39
+RF_Module
+ESP32S3WROOM1UN4
+ESP32-S3-WROOM-1U-N4-1
+Integrated Circuit
+0
+49
+49
 RF_Module
 Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm
 D52M ANT SoC Module https://www.thisisant.com/assets/resources/D00001687_D52_Module_Datasheet.v.2.3_(Garmin).pdf
