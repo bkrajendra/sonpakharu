@@ -3496,7 +3496,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d082abce-b33c-4d7c-8757-32a42463c5e9)
   )
-  (label "D+" (at 266.7 142.24 0) (fields_autoplaced)
+  (label "D+" (at 266.7 140.97 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d621b756-2aeb-49ed-a5c6-afc6e2a73da3)
   )
