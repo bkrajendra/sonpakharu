@@ -4,4 +4,6 @@
   (lib (name "AP2112K-3.3TRG1")(type "KiCad")(uri "${KIPRJMOD}/lib/AP2112K-3.3TRG1")(options "")(descr ""))
   (lib (name "DMG3415U-7")(type "KiCad")(uri "${KIPRJMOD}/lib/DMG3415U-7")(options "")(descr ""))
   (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP32-S3-WROOM-1U-N4/KiCad")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/lib/logo")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/ul_MAX485ESA-/KiCADv6/footprints.pretty")(options "")(descr ""))
 )

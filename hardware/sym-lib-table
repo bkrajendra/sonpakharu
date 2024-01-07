@@ -4,4 +4,6 @@
   (lib (name "AP2112K-3.3TRG1")(type "KiCad")(uri "${KIPRJMOD}/lib/AP2112K-3.3TRG1/AP2112K-3.3TRG1.kicad_sym")(options "")(descr ""))
   (lib (name "DMG3415U-7")(type "KiCad")(uri "${KIPRJMOD}/lib/DMG3415U-7/DMG3415U-7.kicad_sym")(options "")(descr ""))
   (lib (name "ESP32-S3-WROOM-1U-N4")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP32-S3-WROOM-1U-N4/KiCad/ESP32-S3-WROOM-1U-N4.kicad_sym")(options "")(descr ""))
+  (lib (name "sp")(type "KiCad")(uri "${KIPRJMOD}/lib/logo/sp.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-01-02_09-25-21")(type "KiCad")(uri "${KIPRJMOD}/lib/ul_MAX485ESA-/KiCADv6/2024-01-02_09-25-21.kicad_sym")(options "")(descr ""))
 )
