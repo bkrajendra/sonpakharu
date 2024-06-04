@@ -4953,6 +4953,12 @@
 		(uuid "8b7f9c96-70d8-44e2-9309-5823ab9a69c4")
 	)
 	(junction
+		(at 149.86 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b8da46f-808c-4303-a2a1-748219d7be64")
+	)
+	(junction
 		(at 255.27 163.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5041,6 +5047,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d8f4e572-73be-42db-9954-518691ec06c9")
+	)
+	(junction
+		(at 152.4 149.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "db308b72-4d00-4859-81c3-1a1f6d00d866")
 	)
 	(junction
 		(at 222.25 138.43)
@@ -5577,6 +5589,16 @@
 			(type default)
 		)
 		(uuid "235ec8ee-8db1-4931-ab52-07298ecb7ac2")
+	)
+	(wire
+		(pts
+			(xy 152.4 149.86) (xy 154.94 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23ec1fcf-ff4a-49d8-a217-2ec9f64a332a")
 	)
 	(wire
 		(pts
@@ -7010,6 +7032,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 152.4) (xy 154.94 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a090f1fa-6f8f-4011-a559-aeec1f0ae103")
+	)
+	(wire
+		(pts
 			(xy 31.75 41.91) (xy 31.75 43.18)
 		)
 		(stroke
@@ -8117,17 +8149,6 @@
 		)
 		(uuid "fa64ed15-abfd-4888-b425-6c66ff75624b")
 	)
-	(label "SDA"
-		(at 102.87 165.1 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "01b17b98-58cd-47e9-b6f1-edaa7c386eb9")
-	)
 	(label "IO0"
 		(at 175.26 59.69 0)
 		(fields_autoplaced yes)
@@ -8436,17 +8457,6 @@
 		)
 		(uuid "64a3a7f2-3c5b-4c8a-9466-2d8ad8ee7458")
 	)
-	(label "SCL"
-		(at 102.87 160.02 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "64dc9f13-8c0e-42e5-8da8-81af56d733ba")
-	)
 	(label "IO5"
 		(at 255.27 48.26 0)
 		(fields_autoplaced yes)
@@ -8623,6 +8633,17 @@
 		)
 		(uuid "90f0b6c4-4ef9-47c3-b16d-edefbf0a8498")
 	)
+	(label "SDA"
+		(at 154.94 152.4 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "932b592d-45fe-4351-bcc5-8d0a02c0baf5")
+	)
 	(label "IO10"
 		(at 210.82 40.64 0)
 		(fields_autoplaced yes)
@@ -8710,6 +8731,17 @@
 			(justify left bottom)
 		)
 		(uuid "b15b9297-7ecd-432b-99e2-aa335ac6e636")
+	)
+	(label "SCL"
+		(at 154.94 149.86 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b1a384d6-989c-4ce9-a0ec-d24eed8d4550")
 	)
 	(label "IO11"
 		(at 137.16 102.87 0)
