@@ -7,4 +7,5 @@
   (lib (name "2024-01-02_09-25-21")(type "KiCad")(uri "${KIPRJMOD}/lib/ul_MAX485ESA-/KiCADv6/2024-01-02_09-25-21.kicad_sym")(options "")(descr ""))
   (lib (name "PTS526 SK15 SMTR2 LFS")(type "KiCad")(uri "${KIPRJMOD}/lib/PTS526_SK15_SMTR2_LFS/2024-02-04_11-33-15.kicad_sym")(options "")(descr ""))
   (lib (name "AP2112K_3_3TRG1")(type "KiCad")(uri "${KIPRJMOD}/lib/AP2112K_3_3TRG1/2024-02-04_15-03-53.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX17048G_T10")(type "KiCad")(uri "${KIPRJMOD}/lib/MAX17048G_T10/MAX17048G_T10.kicad_sym")(options "")(descr ""))
 )
