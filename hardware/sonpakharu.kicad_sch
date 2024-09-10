@@ -14414,7 +14414,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 			(at 116.84 151.13 0)
 			(effects
 				(font
@@ -14445,7 +14445,7 @@
 			(uuid "d11c5d35-3834-40a6-a8a3-6f8782d5d9f1")
 		)
 		(instances
-			(project ""
+			(project "sonpakharu"
 				(path "/7446772e-77ef-4971-88a7-8e2cc94b8894"
 					(reference "BUZ_IN1")
 					(unit 1)
