@@ -1,1 +1,11 @@
 ##README
+./hardware - PCB design files
+./software - Firmware source code
+
+To open source code:
+cd software
+code .
+
+To open PCB design:
+cd hardware
+Open the sonpakharu.kicad_pro file with KiCad
